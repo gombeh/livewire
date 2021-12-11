@@ -14,7 +14,6 @@
 </head>
 
 <body class="flex flex-wrap justify-center">
-<<<<<<< HEAD
     <div class="flex w-full justify-between px-4 bg-purple-900 text-white">
         <a class="mx-3 py-4" href="/">Home</a>
         @auth
@@ -28,13 +27,6 @@
         @endguest
     </div>
     <div class="my-10 w-full flex justify-center">
-=======
-    <div class="flex w-full justify-left px-4 bg-purple-900 text-white">
-        <a class="mx-3 py-4" href="/">Home</a>
-        <a class="mx-3 py-4" href="/login">Login</a>
-    </div>
-    <div class="my-10 flex justify-center">
->>>>>>> 5e4a080
         @yield('content')
     </div>
 

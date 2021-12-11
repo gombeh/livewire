@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div class="my-10 flex justify-center w-full">
     <section class="border rounded shadow-lg p-4 w-6/12 bg-gray-200">
         <h1 class="text-center text-3xl my-5">Login Time</h1>
@@ -26,8 +25,4 @@
             </div>
         </form>
     </section>
-=======
-<div>
-    I am login
->>>>>>> 5e4a080
 </div>
